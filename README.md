@@ -3,7 +3,7 @@ The final goal of Scient aims to build an interface that permits users to visual
 
 This project was collaborated with <a href = 'https://www.scient.ca/'>Scient Analytics</a> to establish an ML based model to analyze & predict the signal of each mineral component.
 
-Additionally, we congratulate <b>Haoyuan Lu</b> on finding an internship at <a href = 'https://www.scient.ca/'>Scient Analytics</a>!
+Additionally, we congratulate <b>[Haoyuan Lu](haoyuan.lu@dal.ca)</b> on finding an internship at <a href = 'https://www.scient.ca/'>Scient Analytics</a>!
 
 ## Members Contributions
 
