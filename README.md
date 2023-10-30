@@ -7,8 +7,7 @@ Additionally, we congratulate <b>Haoyuan Lu</b> on finding an internship at <a h
 
 ## Members Contributions
 
-### Raymond Liu
-[Name](email@dal.ca) - *(Role)*
+### [Raymond Liu](raymond.liu@dal.ca)
 <b>Project flows, Reports, and Presentations:</b>
 * Proposal (Aim and scope, final revision);
 * GitHub code interpretation;
@@ -40,7 +39,7 @@ Additionally, we congratulate <b>Haoyuan Lu</b> on finding an internship at <a h
 
 
 
-### Haoyuan Lu
+### [Haoyuan Lu](haoyuan.lu@dal.ca)
 <b>	Project flows, Reports, and Presentations:</b>
 * Proposal (Methods, final revision);
 * GitHub code interpretation;
@@ -61,7 +60,7 @@ Additionally, we congratulate <b>Haoyuan Lu</b> on finding an internship at <a h
 * Hyperparameter Tuning;
 
 
-### Wenbo Hao[mailto: wn222803@dal.ca]
+### [Wenbo Hao](wn222803@dal.ca)
 * Proposal (Timeline);
 * Jira Roadmap and Dashboard visualization and improvement；
 * Progress Presentation PPT (Timeline Review);
@@ -70,7 +69,7 @@ Additionally, we congratulate <b>Haoyuan Lu</b> on finding an internship at <a h
 
 
 
-### Yutong Yang
+### [Yutong Yang](yt334536@dal.ca)
 * Proposal (Timeline);
 * Jira Project Management Page Setup;
 * Weekly Status Presentation;
