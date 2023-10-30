@@ -1,7 +1,9 @@
 # T1.Capstone-Scient-Analysis-through-Machine-Learning-
 The final goal of Scient aims to build an interface that permits users to visualize the spectrogram derived from piston core sediment sample cubes. Yet its organic components decompose quickly, requiring timely component analysis which is potentially achievable by ML. 
 
-This project is collaborated with <a href = 'https://www.scient.ca/'>https://www.scient.ca/</a> to establish an ML based model to analyze & predict the signal of each mineral component.
+This project was collaborated with <a href = 'https://www.scient.ca/'>Scient Analytics</a> to establish an ML based model to analyze & predict the signal of each mineral component.
+
+Additionally, we congratulate <b>Haoyuan Lu</b> on finding an internship at <a href = 'https://www.scient.ca/'>Scient Analytics</a>!
 
 ## Members Contributions
 
