@@ -1,22 +1,12 @@
 # T1.Capstone-Scient-Analysis-through-Machine-Learning-
-The final goal of Scient aims to build an interface that permits users to visualize the spectrogram derived from piston core sediment sample cubes. Yet its organic components decompose quickly, requiring timely component analysis which is potentially achievable by ML.
+The final goal of Scient aims to build an interface that permits users to visualize the spectrogram derived from piston core sediment sample cubes. Yet its organic components decompose quickly, requiring timely component analysis which is potentially achievable by ML. 
 
-Member	Project Task
+This project is collaborated with <a href = 'https://www.scient.ca/'>https://www.scient.ca/</a> to establish an ML based model to analyze & predict the signal of each mineral component.
 
+## Members Contributions
 
-
-
-
-
-
-
-
-
-
-
-
-Raymond Liu
-	Project flows, Reports, and Presentations:
+### Raymond Liu
+<b>Project flows, Reports, and Presentations:</b>
 •	Proposal (Aim and scope, final revision);
 •	GitHub code interpretation;
 •	Weekly status presentation PPT (Customer Architype, Customer Interview, Current Progress & Tracking, User Validation Plan)
@@ -30,7 +20,7 @@ Raymond Liu
 •	Final Presentation; 
 •	Final Report (section 1, 3, 4, 6, and final revision).
 
-Backend Coding:
+<b>Backend Coding:</b>
 •	Data exploration and extraction;
 •	Data Preprocessing (Image alignment, feature pre-processing);
 •	Model Enhancement;
@@ -47,8 +37,8 @@ Backend Coding:
 
 
 
-Haoyuan Lu
-	Project flows, Reports, and Presentations:
+### Haoyuan Lu
+<b>	Project flows, Reports, and Presentations:</b>
 •	Proposal (Methods, final revision);
 •	GitHub code interpretation;
 •	Weekly status presentation PPT (Introduction)
@@ -59,7 +49,7 @@ Haoyuan Lu
 •	Final presentation;
 •	Final report (section 1, 2, 5, 6, 7);
 
-Backend Coding:
+<b>Backend Coding:</b>
 •	Data exploration and extraction;
 •	Data Preprocessing (Image Concatenation);
 •	Dataset Preparation for Model Training;
@@ -68,20 +58,20 @@ Backend Coding:
 •	Hyperparameter Tuning;
 
 
-Wenbo Hao
-	Proposal (Timeline);
-Jira Roadmap and Dashboard visualization and improvement；
-Progress Presentation PPT (Timeline Review);
-Progress Report (section 3.3);
-Final Report (section 5.3: personal contribution).
+### Wenbo Hao
+* Proposal (Timeline);
+* Jira Roadmap and Dashboard visualization and improvement；
+* Progress Presentation PPT (Timeline Review);
+* Progress Report (section 3.3);
+* Final Report (section 5.3: personal contribution).
 
 
 
-Yutong Yang
-	Proposal (Timeline);
-Jira Project Management Page Setup;
-Weekly Status Presentation;
-Progress Presentation;
-Final Report (section 5.3: personal contribution)
+### Yutong Yang
+* Proposal (Timeline);
+* Jira Project Management Page Setup;
+* Weekly Status Presentation;
+* Progress Presentation;
+* Final Report (section 5.3: personal contribution)
 
 
