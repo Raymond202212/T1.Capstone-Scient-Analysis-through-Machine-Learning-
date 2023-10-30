@@ -7,26 +7,26 @@ This project is collaborated with <a href = 'https://www.scient.ca/'>https://www
 
 ### Raymond Liu
 <b>Project flows, Reports, and Presentations:</b>
-•	Proposal (Aim and scope, final revision);
-•	GitHub code interpretation;
-•	Weekly status presentation PPT (Customer Architype, Customer Interview, Current Progress & Tracking, User Validation Plan)
-•	Weekly Status Presentation;
-•	Progress report (section 1, 3, 5, and final revision);
-•	Progress Presentation PPT (Progress on Solution, Final Revision);
-•	Progress Presentation;
-•	Team Goal Clarification (with Haoyuan, collaborate);
-•	Final Presentation PPT (Progress on Solution, Video Demonstration, Validation);
-•	Demo Video making;
-•	Final Presentation; 
-•	Final Report (section 1, 3, 4, 6, and final revision).
+* Proposal (Aim and scope, final revision);
+* GitHub code interpretation;
+* Weekly status presentation PPT (Customer Architype, Customer Interview, Current Progress & Tracking, User Validation Plan)
+* Weekly Status Presentation;
+* Progress report (section 1, 3, 5, and final revision);
+* Progress Presentation PPT (Progress on Solution, Final Revision);
+* Progress Presentation;
+* Team Goal Clarification (with Haoyuan, collaborate);
+* Final Presentation PPT (Progress on Solution, Video Demonstration, Validation);
+* Demo Video making;
+* Final Presentation; 
+* Final Report (section 1, 3, 4, 6, and final revision).
 
 <b>Backend Coding:</b>
-•	Data exploration and extraction;
-•	Data Preprocessing (Image alignment, feature pre-processing);
-•	Model Enhancement;
-•	Model Revision & Hyperparameter Tuning;
-•	Model Training & Testing (Execution);
-•	Transformation of model on different target minerals.
+* Data exploration and extraction;
+* Data Preprocessing (Image alignment, feature pre-processing);
+* Model Enhancement;
+* Model Revision & Hyperparameter Tuning;
+* Model Training & Testing (Execution);
+* Transformation of model on different target minerals.
 
 
 
@@ -39,23 +39,23 @@ This project is collaborated with <a href = 'https://www.scient.ca/'>https://www
 
 ### Haoyuan Lu
 <b>	Project flows, Reports, and Presentations:</b>
-•	Proposal (Methods, final revision);
-•	GitHub code interpretation;
-•	Weekly status presentation PPT (Introduction)
-•	Progress report (section 1, 2, 3.1, 4, and final revision);
-•	Progress report PPT (Problem Understanding, Progress on Solution)
-•	Team goal clarification (with Raymond);
-•	Final presentation PPT (Problem Understanding, Team Contribution, Further Works);
-•	Final presentation;
-•	Final report (section 1, 2, 5, 6, 7);
+* Proposal (Methods, final revision);
+* GitHub code interpretation;
+* Weekly status presentation PPT (Introduction)
+* Progress report (section 1, 2, 3.1, 4, and final revision);
+* Progress report PPT (Problem Understanding, Progress on Solution)
+* Team goal clarification (with Raymond);
+* Final presentation PPT (Problem Understanding, Team Contribution, Further Works);
+* Final presentation;
+* Final report (section 1, 2, 5, 6, 7);
 
 <b>Backend Coding:</b>
-•	Data exploration and extraction;
-•	Data Preprocessing (Image Concatenation);
-•	Dataset Preparation for Model Training;
-•	Model Establishment;
-•	Model Training & Testing.
-•	Hyperparameter Tuning;
+* Data exploration and extraction;
+* Data Preprocessing (Image Concatenation);
+* Dataset Preparation for Model Training;
+* Model Establishment;
+* Model Training & Testing.
+* Hyperparameter Tuning;
 
 
 ### Wenbo Hao
