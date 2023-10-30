@@ -8,6 +8,7 @@ Additionally, we congratulate <b>Haoyuan Lu</b> on finding an internship at <a h
 ## Members Contributions
 
 ### Raymond Liu
+[Name](email@dal.ca) - *(Role)*
 <b>Project flows, Reports, and Presentations:</b>
 * Proposal (Aim and scope, final revision);
 * GitHub code interpretation;
