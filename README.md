@@ -60,7 +60,7 @@ Additionally, we congratulate <b>Haoyuan Lu</b> on finding an internship at <a h
 * Hyperparameter Tuning;
 
 
-### Wenbo Hao
+### Wenbo Hao[mailto: wn222803@dal.ca]
 * Proposal (Timeline);
 * Jira Roadmap and Dashboard visualization and improvement；
 * Progress Presentation PPT (Timeline Review);
